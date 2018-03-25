@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\urbSim\urbSim\bin\urbSim.dll
+C:\Users\admin\source\repos\urbSim\urbSim\bin\urbSim.pdb
+C:\Users\admin\source\repos\urbSim\urbSim\obj\Debug\urbSim.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\urbSim\urbSim\obj\Debug\urbSim.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\urbSim\urbSim\obj\Debug\urbSim.dll
+C:\Users\admin\source\repos\urbSim\urbSim\obj\Debug\urbSim.pdb
+C:\Users\admin\Documents\_STUD\IDDA\urbSim\urbSim\bin\urbSim.dll
+C:\Users\admin\Documents\_STUD\IDDA\urbSim\urbSim\bin\urbSim.pdb
+C:\Users\admin\Documents\_STUD\IDDA\urbSim\urbSim\obj\Debug\urbSim.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\_STUD\IDDA\urbSim\urbSim\obj\Debug\urbSim.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\_STUD\IDDA\urbSim\urbSim\obj\Debug\urbSim.dll
+C:\Users\admin\Documents\_STUD\IDDA\urbSim\urbSim\obj\Debug\urbSim.pdb

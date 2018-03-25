@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urbSim", "urbSim\urbSim.csproj", "{CC4FF6C2-E515-46D7-89B5-CB51828E46CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4FF6C2-E515-46D7-89B5-CB51828E46CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4FF6C2-E515-46D7-89B5-CB51828E46CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4FF6C2-E515-46D7-89B5-CB51828E46CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4FF6C2-E515-46D7-89B5-CB51828E46CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0255B09-58AE-46B7-B609-2884777041D4}
+	EndGlobalSection
+EndGlobal
