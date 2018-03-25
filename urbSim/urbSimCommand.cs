@@ -26,17 +26,22 @@ namespace urbSim
         ///<returns>The command name as it appears on the Rhino command line.</returns>
         public override string EnglishName
         {
-            get { return "urbSimCommand"; }
+            get { return "urbSim"; }
         }
 
         protected override Result RunCommand(RhinoDoc doc, RunMode mode)
         {
             // TODO: start here modifying the behaviour of your command.
             // ---
-            RhinoApp.WriteLine("The {0} command will add a line right now.", EnglishName);
+            RhinoApp.WriteLine("The {0} has begun.", EnglishName);
 
-            
-            RhinoApp.WriteLine("The {0} command added one line to the document.", EnglishName);
+            //getPrecint()              //Ask user to select a surface representing a precint 
+            //generateRoadNetwork()     //Using the precint, generate a road network
+            //createBlocks()            //Using road network, create blocks
+            //subdivideBlocks()         //Subdivide blocks into plots
+            //instantiateBuildings()    //Place buildings on each plot
+                                  
+            RhinoApp.WriteLine("The {0} is complete.", EnglishName);
 
             // ---
 
